@@ -19,7 +19,7 @@ function Section1() {
             </Typography>
             <Typography variant="subtitle1" color="textSecondary" gutterBottom>
               Your voice is your vote, show solidarity to the most qualified
-              leader by casting a vote in. their favor.
+              leader by casting a vote in their favor.
             </Typography>
             <Button
               variant="contained"
