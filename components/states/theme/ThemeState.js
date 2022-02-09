@@ -11,7 +11,6 @@ const ThemeState = ({ children, ...rest }) => {
 
   const toggleTheme = () => dispatch({ type: TOGGLE_THEME });
   const setTheme = (mode) => dispatch({ type: SET_THEME, payload: mode });
-  console.log('THeme Checked');
   return (
     <ThemeContext.Provider
       {...rest}

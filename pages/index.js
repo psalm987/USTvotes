@@ -33,7 +33,7 @@ function Section1() {
           <Grid item xs={12} md={6}>
             <Box
               sx={{
-                backgroundColor: 'secondary.main',
+                backgroundColor: 'primary.light',
                 height: 1,
                 width: 1,
                 minHeight: '300px',

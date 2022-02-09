@@ -18,7 +18,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <CacheProvider value={clientSideEmotionCache}>
       <Head>
-        <title>UST Votes</title>
+        <title>You Vote</title>
         <meta name="viewport" content="initial-scale=1, width=device-width" />
         <link
           rel="icon"
